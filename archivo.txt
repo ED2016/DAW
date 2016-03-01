@@ -1,0 +1,14 @@
+hectorcarlos
+
+
+Descargar respositorio---
+
+git init. para iniciar el repòsitorio
+
+
+git clone <enlace al repositorio>
+
+Subiendo archivo.txt--
+
+git pull archivo.txt
+
